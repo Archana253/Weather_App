@@ -6,8 +6,7 @@ It shows real-time weather details such as **temperature**, **condition**, **cit
 ---
 
 ## 🚀 Live Demo
-👉 [View on GitHub Pages](https://yourusername.github.io/weather-app/)  
-*(Replace `yourusername` with your GitHub username)*
+👉 [View on GitHub Pages](https://Archana253.github.io/weather-app/)  
 
 ---
 
