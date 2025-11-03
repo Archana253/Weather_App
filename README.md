@@ -5,11 +5,6 @@ It shows real-time weather details such as **temperature**, **condition**, **cit
 
 ---
 
-## 🚀 Live Demo
-👉 [View on GitHub Pages](https://Archana253.github.io/weather-app/)  
-
----
-
 ## ✨ Features
 - 🌍 Search weather by city name  
 - 🌡️ Shows current temperature and condition  
@@ -28,7 +23,3 @@ It shows real-time weather details such as **temperature**, **condition**, **cit
 
 ---
 
-## 🧩 How to Use
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/weather-app.git
